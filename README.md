@@ -46,11 +46,6 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbhumire123&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbhumire123&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=gbhumire123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </div>
 
